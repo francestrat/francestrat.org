@@ -1,0 +1,10 @@
+year,segment,value_eur_mwh,share_percent
+1995,Cout_EDF,40,67
+1995,Marge_EDF,10,17
+1995,Cout_Fournisseur,5,8
+1995,Marge_Fournisseur,5,8
+2022,Cout_EDF,50,25
+2022,Marge_EDF,10,5
+2022,Cout_Fournisseur,50,25
+2022,Marge_Fournisseur,90,45
+
